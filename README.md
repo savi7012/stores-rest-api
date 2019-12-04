@@ -23,7 +23,7 @@ Amazon Web Service (EC2 Instance)
 
 ## Authors
 
-* **Vishal Saini** - *-->* - [Linkdin](https://www.linkedin.com/in/vishal-saini-38043a101/)
+* **Vishal Saini** - *-->* - [Linkedin](https://www.linkedin.com/in/vishal-saini-38043a101/)
 
 
 
