@@ -5,19 +5,19 @@ A simple rest-api using flask which store, delete, get items from store with use
 
 ## Tools, Technologies and Libs
 
-Python
-Flask
-Flask-RESTful
-Flask-JWT
-Flask-SQLAlchemy
-uwsgi
-psycopg2
+Python,
+Flask,
+Flask-RESTful,
+Flask-JWT,
+Flask-SQLAlchemy,
+uwsgi,
+psycopg2,
 SQLite3
 
 
 ## Deployment
 
-Heroku
+Heroku,
 Amazon Web Service (EC2 Instance)
 
 
